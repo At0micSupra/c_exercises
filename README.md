@@ -1,7 +1,7 @@
 # This repository contains some simple C programs I've made
 
 ## wc.c
-
+This program counts the number of lines, words, and characters from stdin, much like the `wc` program included in many Unicies. 
 | **Feature**        |  **wc.c** | **BSD wc** |
 |--------------------|:---------:|:----------:|
 | counts words       | [x]       | [x]        |
