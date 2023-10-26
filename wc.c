@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*
+This is a simple word count program i made in a few minutes.
+*/
+
 int main() {
 	char c;
 	int l, w, ch;

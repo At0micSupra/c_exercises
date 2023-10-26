@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*
+This is a simple program which takes in some text input and
+removes all but one space between words.
+*/
 int main() {
 	char c;
 	int b = 0;
